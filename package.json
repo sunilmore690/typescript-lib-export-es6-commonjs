@@ -1,0 +1,29 @@
+{
+  "name": "typescript-lib-export-es6-commonjs",
+  "version": "1.0.0",
+  "description": "Example Typescript lib imported as Commonjs and ES6",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilmore690/typescript-lib-export-es6-commonjs.git"
+  },
+  "keywords": [
+    "typescript",
+    "es6",
+    "commonjs"
+  ],
+  "author": "Sunil More",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilmore690/typescript-lib-export-es6-commonjs/issues"
+  },
+  "homepage": "https://github.com/sunilmore690/typescript-lib-export-es6-commonjs#readme",
+  "devDependencies": {
+    "@types/node": "^20.1.0",
+    "typescript": "^5.0.4"
+  }
+}
