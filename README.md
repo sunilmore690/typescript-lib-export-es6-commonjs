@@ -32,3 +32,16 @@ console.log('sum',sum(1,2)
 ```
 
 Typescript
+
+```tsx
+import { sum } from 'my-lib';
+const a:number = 1;
+const b:number = 2;
+const out:number = sum(a,b);
+console.log(out)
+```
+
+
+Here is codesandbox link to use this package
+
+[https://codesandbox.io/s/hardcore-dan-2vourk?file=/src/index.ts](https://codesandbox.io/s/hardcore-dan-2vourk?file=/src/index.ts)
